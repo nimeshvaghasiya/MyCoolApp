@@ -1,0 +1,20 @@
+{
+  "name": "mycoolapp",
+  "version": "1.0.0",
+  "description": "publish to heroku app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "nodejs",
+    "deploy"
+  ],
+  "author": "Nimesh Vaghasiya",
+  "license": "MIT"
+}
